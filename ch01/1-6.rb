@@ -1,4 +1,5 @@
 # 练习 1.6
+
 def new_if(predicate, then_clause, else_clause)
   if predicate
     then_clause
